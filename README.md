@@ -1,4 +1,4 @@
-# NIH Quantum Computing Challenge: Quantum-Enhanced Federated Learning for Biomedical Image Classification
+# X-prize Quantum Computing Challenge: Quantum-Enhanced Federated Learning for Biomedical Image Classification
 
 ## Overview
 
